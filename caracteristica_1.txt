@@ -7,3 +7,5 @@ cambio para fast-forward
 para fastforward2
 
 cambio olvidado
+
+añado para subir al servidor
