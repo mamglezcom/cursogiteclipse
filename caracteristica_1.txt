@@ -11,3 +11,5 @@ cambio olvidado
 añado para subir al servidor
 
 otro cambio sin push
+
+arreglo rapido en produccion
